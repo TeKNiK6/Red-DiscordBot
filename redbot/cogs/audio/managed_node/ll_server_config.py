@@ -60,7 +60,7 @@ DEFAULT_LAVALINK_YAML = {
     "yaml__plugins__youtube__TVHTML5EMBEDDED__playlistLoading": False,
     "yaml__plugins__youtube__TVHTML5EMBEDDED__videoLoading": False,
     "yaml__plugins__youtube__TVHTML5EMBEDDED__searching": False,
-    "yaml__plugins__youtube__Dummy__Variable": True,"
+    "yaml__plugins__youtube__Dummy__Variable": True,
 }
 
 
