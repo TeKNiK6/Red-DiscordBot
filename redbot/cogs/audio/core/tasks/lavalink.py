@@ -57,7 +57,7 @@ class LavalinkTasks(MixinMeta, metaclass=CompositeMetaClass):
                 secured = False
                 # Make this timeout customizable for lower powered machines?
                 self.managed_node_controller = ServerManager(
-                    self.config, timeout=60, download_timeout=60 * 3, cog=self
+                    self.config, timeout=60, download_timeout=160 * 3, cog=self
                 )
                 try:
                     await self.managed_node_controller.start(java_exec)
