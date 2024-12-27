@@ -38,6 +38,7 @@ class ValidationUtilities(MixinMeta, metaclass=CompositeMetaClass):
             "youtube.com",
             "youtu.be",
             "googlevideo.com",
+            "suno.com",
             "soundcloud.com",
             "bandcamp.com",
             "vimeo.com",
