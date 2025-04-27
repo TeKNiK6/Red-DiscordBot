@@ -37,6 +37,7 @@ class ValidationUtilities(MixinMeta, metaclass=CompositeMetaClass):
         valid_tld = [
             "youtube.com",
             "youtu.be",
+            "googlevideo.com",
             "soundcloud.com",
             "bandcamp.com",
             "vimeo.com",
